@@ -3,4 +3,5 @@ displaying the list of current directory
 changing directory to root
 Displaying current directory in long format
 listing files in long format with specifications 
-listing files in long format using digits only 
+listing files in long format using digits only
+creating a directory 
